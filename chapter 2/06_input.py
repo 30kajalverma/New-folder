@@ -14,3 +14,4 @@ print("Number b is :", b  )
 print("sum is", a+b)
 # but agr hum likhe simple 1 + 2 = 3
 # if sting is used then it will be 1+ 2 = 12 
+# x = 64
