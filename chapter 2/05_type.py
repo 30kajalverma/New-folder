@@ -7,7 +7,7 @@ b = 31.3 #  class <float>
 t = type (b)
 print(t)
 
-c = "32.3" # double coat k andr h to sting maani jayegi
+c = "32.3" # double coat k andr h to string maani jayegi
 t = type (c)
 print (t)
 

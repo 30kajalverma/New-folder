@@ -20,7 +20,8 @@ print(friends)
 
 #another method
 l1 = [1, 34, 62, 2, 6 , 11]
-# print(l1.pop(3))
+# print(l1.pop(3)) .......pop(3) means: Remove element at index 3 from the list, and return it.
+# Index 3 par value hai 2, so wo list se nikal jayega aur print hoga.
 # print(l1)
 # or
 value = l1.pop(3)

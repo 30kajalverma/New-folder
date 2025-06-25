@@ -1,5 +1,7 @@
 # write a program to find out whether a given post is talking about "Harry" or not
-post = input("Enter the post: ")
+
+
+post = input("Enter the post: I met Harry today ")
 
 
 if("harry" in post.lower()):

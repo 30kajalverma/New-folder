@@ -21,3 +21,22 @@ print("End of program")
 # and 
 # or 
 # not
+# and =>
+# if age > 18 and age < 60:
+#     print("Adult")
+
+# or=>
+# city = input("Enter city name: ")
+
+# if city == "Delhi" or city == "Mumbai":
+#     print("Big City")
+
+#not
+# 🔁 True → False
+# 🔁 False → True
+
+# raining = False
+
+# if not raining:
+#     print("Let's go outside!")
+

@@ -1,4 +1,8 @@
 # write a program to input 8 numbers from the user and display all the unique numbers (once)
+
+# “Unique values”, “Repeated values not allowed”, “Duplicate hatao”
+
+# 👉 Use set
 s = set()
 n = input("Enter number 1: ")
 s.add(int(n))

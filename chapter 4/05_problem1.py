@@ -16,3 +16,17 @@ fruits.append(f6)
 f7 = input("Enter fruit name: ")
 fruits.append(f7)
 print(fruits)
+
+# or
+
+# Create an empty list to store fruits
+fruits = []
+
+# Ask user to enter 7 fruits
+for i in range(7):
+    fruit = input(f"Enter fruit {i+1}: ")
+    fruits.append(fruit)
+
+# Print the list of fruits
+print("Your fruit list is:", fruits)
+

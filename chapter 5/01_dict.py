@@ -1,3 +1,4 @@
+# Yeh ek dictionary hai, jismein key-value pairs hote hain:
 d = {} #empty dictionary
 marks = {
     "Harry": 100,

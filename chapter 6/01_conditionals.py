@@ -2,7 +2,7 @@ a = int(input("Enter your age: "))
 #if else statement
 if(a>=18):
     print("you are above the age of consent")
-    print("Goof for you")
+    print("Good for you")
 
 else:
     print("You are below the age of consent")

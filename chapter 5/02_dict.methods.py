@@ -23,7 +23,7 @@ marks = {
 # print(marks["Harry"]) # dono hi 100 marks dengi
 # pr agr "Harry2" kr de to niche wale m eror ayega 
 
-print(marks.get("Harry2")) # prints none
+# print(marks.get("Harry2")) # prints none
 # print(marks["Harry2"]) # returns an error
 
 # More methods are available on docs.python.org

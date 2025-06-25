@@ -14,7 +14,7 @@ for i in range(1, 11):
 
     
 # Yeh line har i ke liye n ka multiplication print karegi
-# f"{...}" ek formatted string hoti hai, jisme variables seedha print ho jaate hain
+# f"{...}" ek formatted string hoti hai, jisme variables seedha print ho jaate hain. f string ki help se ap variable ka b prayoog kr skte h.
 # {n*i} ka matlab hai: number n ko i se multiply karo
 
 

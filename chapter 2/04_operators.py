@@ -39,7 +39,7 @@ print("False or False is",False or False)
 print("True and  False is", True and  False)
 print("True and  true is", True and True)
 print("False and  true is", False and  True)
-print("Falseand False is",False and  False)
+print("False and False is",False and  False)
 # alt + cursor on every  and and or to replace witha any word 
 
 print(not (False))

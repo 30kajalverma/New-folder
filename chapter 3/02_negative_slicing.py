@@ -17,7 +17,9 @@ word[1:6:2]
 # other advanced slicing techniques:
 a= "amazing"
 a [:7]
+print(a[:7])
 a [0:]
+print(a[0:])
 
 
 
